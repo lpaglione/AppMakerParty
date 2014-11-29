@@ -1,5 +1,3 @@
-Discussion.md
-
 #Discussion Topics
 
 * What is the role that digital devices play in our day-to-day life? 

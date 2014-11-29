@@ -1,5 +1,3 @@
-Resources.md
-
 #Chef Sample Games
 
 * [Build Your Own Chef Adventure App](https://mcbeckster.makes.org/thimble/NTc4NjgzMTM2/chef-adventure-game)
