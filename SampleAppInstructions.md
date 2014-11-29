@@ -13,7 +13,7 @@ _This instruction sheet was adapted from the [Greedy Chef app](https://mcbeckste
 
 ##The steps
 
-Image | Instructions
+Images - make them a little wider | Instructions
 ----- | ------------
 ![The first image - want it to be wider](http://i.imgur.com/6cDoJ1S.png) | 1. Open [Appmaker](https://apps.webmaker.org/designer). On the first first page, add the following bricks in this order: Header brick, Image brick, Button brick. These bricks are listed on the left hand side of the screen. Click on each brick and use the Customisation toolbar on the right to edit your bricks. Change the image to whatever imgur image you'd like, choose an app title, or customise the brick colours. ![step1b](http://i.imgur.com/EpQEuQw.png) 
 Other text | 2. Add a new page to your app. Add the following bricks in this order: Counter brick, Chef Adventure brick, Game Controller brick. The Counter brick will keep track of how many items you've picked up, and you can customise the units (pies, eggs, cats, etc). The Chef Adventure brick is where gameplay will happen - more on how to customise this brick below. The Game Controller brick is already edited to work in the most straight-forward way, so there's no need to customise this brick.
