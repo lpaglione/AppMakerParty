@@ -1,5 +1,3 @@
-SampleAppInstructions.md
-
 _This instruction sheet was adapted from the [Greedy Chef app](https://mcbeckster.makes.org/thimble/NTc4NjgzMTM2/chef-adventure-game), recreated here to make it a little more printable._
 
 #Basic Chef Game
@@ -15,4 +13,9 @@ _This instruction sheet was adapted from the [Greedy Chef app](https://mcbeckste
 
 ##The steps
 
-| ![step1](http://i.imgur.com/6cDoJ1S.png) | 1. Open [Appmaker](https://apps.webmaker.org/designer). On the first first page, add the following bricks in this order: Header brick, Image brick, Button brick. These bricks are listed on the left hand side of the screen. |
+![step1](http://i.imgur.com/6cDoJ1S.png) | 1. Open [Appmaker](https://apps.webmaker.org/designer). On the first first page, add the following bricks in this order: Header brick, Image brick, Button brick. These bricks are listed on the left hand side of the screen.
+
+Click on each brick and use the Customisation toolbar on the right to edit your bricks. Change the image to whatever imgur image you'd like, choose an app title, or customise the brick colours.
+
+![step1b](http://i.imgur.com/EpQEuQw.png)
+
