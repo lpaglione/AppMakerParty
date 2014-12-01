@@ -23,19 +23,19 @@ You can build:
 ##General Event Schedule (4 hours)
 
 * **0:00 - 0:30**: Arrival, Connecting to Wifi, Pizza lunch
-* **0:30 - 1:00**: What is AppMaker? How does it work? Sample app demo (end result)
-* **1:00 - 2:00**: Build the sample app (from instruction sheets)
-* **2:00 - 3:00**: Extend your app OR have a snack OR [Make a paper toy](https://party.webmaker.org/party-resources/KUMI-Papertoy-blue.pdf) OR [Make a t-shirt](https://tbx.makes.org/thimble/stencil-a-tshirt)
-* **3:00 - 3:30**: App finishing touches; scan them onto smartphones; tell others about your app; [discussion](https://github.com/lpaglione/AppMakerParty/blob/master/Discussion.md)
+* **0:30 - 1:00**: What is AppMaker? How does it work? Sample app demo
+* **1:00 - 2:00**: Build the [Basic Chef Game](https://github.com/lpaglione/AppMakerParty/blob/master/InstructionSheetsPDF/ChefGame-Basic_Instructions.pdf?raw=true) _(PDF Version. See Resources](https://github.com/lpaglione/AppMakerParty/blob/master/Resources.md) section for more versions.)_
+* **2:00 - 3:00**: Extend your app with one of the [Chef Game Add-ons](https://github.com/lpaglione/AppMakerParty/blob/master/Resources.md) OR have a snack OR [Make a paper toy](https://party.webmaker.org/party-resources/KUMI-Papertoy-blue.pdf) OR [Make a t-shirt](https://tbx.makes.org/thimble/stencil-a-tshirt)
+* **3:00 - 3:30**: App finishing touches; scan them onto smartphones; present your app; [discussion](https://github.com/lpaglione/AppMakerParty/blob/master/Discussion.md)
 * **3:30 - 4:00**: Play each other's apps
 
 ##Materials
 
 * Computers (one per participant)
-* [Sample app instruction sheets](http://bit.ly/1A1TAky)
-* One large monitor (for sharing, demonstrating)
+* [Printed instruction sheets](https://github.com/lpaglione/AppMakerParty/blob/master/Resources.md)
+* Large monitor (for sharing, demonstrating)
 * Flip chart (optional)
-* Paper toy printouts
+* [Paper toy printouts](https://party.webmaker.org/party-resources/KUMI-Papertoy-blue.pdf)
 * T-shirts, fabric paint, stencils
 * Smartphones (optional)
 * Pizza :)

@@ -30,21 +30,31 @@ _Note, in each case I used examples available in the AppMaker examples section, 
 
 #Sprites
 
+These sprites were adapted from a CC0 tileset from the [OpenGameArt.org website](http://opengameart.org/forumtopic/wip-simple-broad-purpose-tileset)
+
 **Door**
 
-![door sprite](https://www.evernote.com/shard/s13/sh/8269281b-78a2-4e24-b1a4-502c81fe03af/67300f15bfa01533731eafc5164b923f/deep/0/Welcome-to-Appmaker.png)
+![door sprite](https://raw.githubusercontent.com/lpaglione/AppMakerParty/master/Sprites/Door-yellow.png)
 
-'''
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA/ElEQVRYhe2XOw6DMAyGPXG5bN2ROAErLJm4AQMLh8lFcgO2TgyV3MlVa2o5CaQEqcM/EL++wXYCeO8xRc45dM4lxb7HQzEAdBAqay1aazcJY+PLAyBDqELjygdoTIeN6V4G+pbU1xP29RTsJ9UpB2BoZxzaeQNACbjITnGan1SnHADeHLkAgqegWIDH/fZV6wi4jnBhAGkMpcIA8KHFVLiYagPCAaL3wM8AtDGUCksgfCHt3gPZAbQmjAU4fAr+ANkBtDGk8SLxwnSuASTvgewAodextoiyvweyAcReRqkAh92GpwHwZuO6HoD0Y8ETSM9tairJjyTVOR3gCd+TUx/0SY7jAAAAAElFTkSuQmCC
-'''
+https://raw.githubusercontent.com/lpaglione/AppMakerParty/master/Sprites/Door-yellow.png
+
+_Editable door_
+
+    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA/ElEQVRYhe2XOw6DMAyGPXG5bN2ROAErLJm4AQMLh8lFcgO2TgyV3MlVa2o5CaQEqcM/EL++wXYCeO8xRc45dM4lxb7HQzEAdBAqay1aazcJY+PLAyBDqELjygdoTIeN6V4G+pbU1xP29RTsJ9UpB2BoZxzaeQNACbjITnGan1SnHADeHLkAgqegWIDH/fZV6wi4jnBhAGkMpcIA8KHFVLiYagPCAaL3wM8AtDGUCksgfCHt3gPZAbQmjAU4fAr+ANkBtDGk8SLxwnSuASTvgewAodextoiyvweyAcReRqkAh92GpwHwZuO6HoD0Y8ETSM9tairJjyTVOR3gCd+TUx/0SY7jAAAAAElFTkSuQmCC
+
 
 **Key***
 
-![key sprite](https://www.evernote.com/shard/s13/sh/eb25d13a-4612-462c-89ca-d44c24116d95/23023291b3e34ed95cbc7fc978ff34a0/deep/0/Welcome-to-Appmaker.png)
+![key sprite](https://raw.githubusercontent.com/lpaglione/AppMakerParty/master/Sprites/Door-yellow.png)
 
-'''
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAArElEQVRYhd3WwQ2AIAwF0F4YwaXYxVEM0zmEQ5h6IjG1LcWIQJv8gwnYd5AiwLPQmGbVDYAAgLTOY2XTAtINwDbet0VNigFTDJ9AxgJIjfwD8sclNaAQ/wDmxQgAGqA2TgDW0gbZ3ID8LI1syyifGyANqlL8AWrjB3Bbx8YyuscE0ONCr2vDZTQ5gEJe/JA4AUiNrQDL+u4AdYNlkBSKHk19YU+AtEFKs/oVcAEqQJLU49308gAAAABJRU5ErkJggg==
-'''
+https://raw.githubusercontent.com/lpaglione/AppMakerParty/master/Sprites/Door-yellow.png
+
+
+_Editable key_
+
+    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAArElEQVRYhd3WwQ2AIAwF0F4YwaXYxVEM0zmEQ5h6IjG1LcWIQJv8gwnYd5AiwLPQmGbVDYAAgLTOY2XTAtINwDbet0VNigFTDJ9AxgJIjfwD8sclNaAQ/wDmxQgAGqA2TgDW0gbZ3ID8LI1syyifGyANqlL8AWrjB3Bbx8YyuscE0ONCr2vDZTQ5gEJe/JA4AUiNrQDL+u4AdYNlkBSKHk19YU+AtEFKs/oVcAEqQJLU49308gAAAABJRU5ErkJggg==
+
+**Hamburger**
 
 ![Hamburger](https://raw.githubusercontent.com/lpaglione/AppMakerParty/master/Sprites/Hamburger2.png)
 
