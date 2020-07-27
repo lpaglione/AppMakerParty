@@ -1,6 +1,6 @@
 # Maker Parties - AppMaker
 
-This guide was pulled together from a maker party that I held in December 2014 for 6-8 10-year olds who are interested in technology. It is losely remixed from a number of resources found on Mozilla sites:
+This guide was pulled together from a maker party that I held in December 2014 for 6-8 10-year olds who are interested in technology. It is loosely remixed from a number of resources found on Mozilla sites:
 
 * [Medium-sized maker party](https://michelle.makes.org/thimble/LTE1Nzc2NDgxMjg=/how-to-host-a-maker-party-medium)
 * [Chef Game](https://mcbeckster.makes.org/thimble/NTc4NjgzMTM2/chef-adventure-game) _(what the participants will be building and then extending. Also see the [Resources](https://github.com/lpaglione/AppMakerParty/blob/master/Resources.md) file for other sample games.)_
