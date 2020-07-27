@@ -1,4 +1,4 @@
-#Maker Parties - AppMaker
+# Maker Parties - AppMaker
 
 This guide was pulled together from a maker party that I held in December 2014 for 6-8 10-year olds who are interested in technology. It is losely remixed from a number of resources found on Mozilla sites:
 
@@ -9,7 +9,7 @@ This guide was pulled together from a maker party that I held in December 2014 f
 
 Others are welcome to branch and remix as you'd like!
 
-###About AppMaker
+### About AppMaker
 
 [AppMaker](https://apps.webmaker.org/en-US/designer0) is a free tool for creating personal mobile apps, even if you don't know code! Combine individual bricks to create and share custom mobile apps right in your web browser.
 
@@ -20,7 +20,7 @@ You can build:
 * a personal goal tracker
 * and more!
 
-##General Event Schedule (4 hours)
+## General Event Schedule (4 hours)
 
 * **0:00 - 0:30**: Arrival, Connecting to Wifi, Pizza lunch
 * **0:30 - 1:00**: What is AppMaker? How does it work? Sample app demo
@@ -29,7 +29,7 @@ You can build:
 * **3:00 - 3:30**: App finishing touches; scan them onto smartphones; present your app; [discussion](https://github.com/lpaglione/AppMakerParty/blob/master/Discussion.md)
 * **3:30 - 4:00**: Play each other's apps
 
-##Materials
+## Materials
 
 * Computers (one per participant)
 * [Printed instruction sheets](https://github.com/lpaglione/AppMakerParty/blob/master/Resources.md)
